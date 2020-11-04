@@ -1,7 +1,7 @@
 {
   "name": "gogs-ari",
   "description": "Gogs (Go Git Service) is a painless self-hosted Git service.",
-  "repository": "https://github.com/Raafet/gogs",
+  "repository": "https://github.com/arian-alt/gogs",
   "logo": "https://raw.githubusercontent.com/gogits/gogs/master/public/img/gogs-large-resize.png",
   "keywords": ["git", "github"]
 }
